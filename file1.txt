@@ -1,5 +1,4 @@
 Hi team 
-<<<<<<< HEAD
 enter your name
 1. S sundhar raj
 My name is Prasanth
